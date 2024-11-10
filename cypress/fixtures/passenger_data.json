@@ -1,13 +1,13 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "22405",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "12/11/2024",
+  "SOURCE_STATION": "BGP",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "AMVT",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "7678135242@rapl",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Shivam Pandey",
